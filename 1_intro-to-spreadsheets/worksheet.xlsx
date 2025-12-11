@@ -1,6 +1,15 @@
-Skill	Difficulty (1-5)	Skill Known	Date Started	  Level	   Difficulty (1-10)	Skill & Level
+Skill	Difficulty (1-5)	Skill Known	  Date Started	  Level	   Difficulty (1-10)	Skill & Level
 Excel	       4	           TRUE	          5/31/2001	  Advanced	      8	           Excel-Advanced
 Python	       5	           TRUE	          6/30/2018	  Advanced	     10	           Python-Advanced
 Power BI	   3	           TRUE	          8/31/2019	  Intermediate	  6	        Power BI-Intermediate
 SQL	           3	           TRUE	          10/31/2019	Advanced	  6	           SQL-Advanced
 Tableau	       3	           TRUE	          2/28/2020	     Beginner	  6	           Tableau-Beginner
+
+
+
+Skill   Difficulty (1-5)	 Skill Known	   Date Started	  Level	  Difficulty (1-10)	Skill & Level			Skill
+Excel	       4	           TRUE	              37042	     Advanced	    8	   Excel-Advanced			   Excel
+Python	       5	           TRUE      	      43281	     Advanced	   10	   Python-Advanced			   Python
+Power BI	   3	           TRUE	              43708	    Intermediate	6	   Power BI-Intermediate	  Power BI
+SQL	           3	           TRUE	              43769	    Advanced	    6	   SQL-Advanced			      SQL
+Tableau	       3	           TRUE	              43889	    Beginner	    6	   Tableau-Beginner			  Tableau
